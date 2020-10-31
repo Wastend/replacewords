@@ -1,7 +1,7 @@
 1) Download the latest version of jdk from the link:
 2) Open console: Win+R
 3) Go to the desired directory
-4) Copy repository path: 
+4) Copy repository
 5) Write to the console "git init"
 6) Write to the console git pull and paste the copied path
 7) In the console, go to the folder where the files were downloaded (цrite to the console "cd the path to the file")
